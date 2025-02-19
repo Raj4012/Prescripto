@@ -1,23 +1,29 @@
-# Prescripto
+# Prescripto - Online Appointment Booking (Frontend)
 
 ## 🏥 About Prescripto
-Prescripto is a doctor's appointment booking platform designed to simplify healthcare access. It enables users to easily book appointments with trusted doctors through a user-friendly interface.
+Prescripto is an online appointment booking platform designed for hospitals and doctors. This project focuses on the **frontend development** of the application, providing a seamless user interface for patients to book appointments with doctors based on their specialties.
+
+## 🌟 Project Overview
+In this project, we aim to create a user-friendly website where users can:
+- Browse multiple doctors available at a hospital.
+- Filter doctors based on their specialties.
+- Choose a preferred date and time slot within a **7-day window**.
+- Book an appointment with the selected doctor.
 
 ## 🚀 Features
-- **Easy Scheduling**: Book and manage doctor appointments seamlessly.
-- **Secure Data Management**: Patient data is securely stored and managed.
-- **User-Friendly Interface**: Intuitive design for effortless navigation.
-- **Doctor Profiles**: View detailed doctor profiles and specialties.
-- **Notifications**: Receive appointment reminders and updates.
+- **Doctor Listings**: View a list of doctors with their specialties.
+- **Filtering**: Search for doctors by specialty.
+- **Appointment Scheduling**: Select an available date and time slot.
+- **Responsive UI**: Optimized for mobile and desktop.
+- **User-Friendly Design**: Smooth and intuitive experience for patients.
 
 ## 🔧 Tech Stack
-- **Frontend**: React.js, HTML, CSS, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB Atlas with Mongoose
-- **APIs**: RESTful API architecture
+- **Frontend**: React.js, Tailwind CSS
+- **State Management**: React Hooks
+- **Routing**: React Router
 
 ## 📦 Installation & Setup
-To run Prescripto locally, follow these steps:
+To run Prescripto (frontend) locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
@@ -37,19 +43,9 @@ To run Prescripto locally, follow these steps:
 
 4. Open `http://localhost:3000` in your browser.
 
-## 💡 How to Contribute
-We welcome contributions! Follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to your fork (`git push origin feature-branch`).
-5. Create a Pull Request.
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 For any queries, feel free to reach out:
 - **GitHub**: [Raj4012](https://github.com/Raj4012)
-- **Email**: rajkumarbharti@example.com
+- **Email**: kumarrajbharti278290@gmail.com
 
