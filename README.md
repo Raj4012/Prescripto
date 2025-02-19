@@ -43,6 +43,9 @@ To run Prescripto (frontend) locally, follow these steps:
 
 4. Open `http://localhost:3000` in your browser.
 
+## 🌍 Deployment
+Prescripto is deployed and available at:
+[**Live Demo**](https://prescripto-j29z8b8dc-raj4012s-projects.vercel.app/)
 
 ## 📞 Contact
 For any queries, feel free to reach out:
